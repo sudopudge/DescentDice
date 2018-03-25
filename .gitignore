@@ -1,0 +1,9 @@
+# Eclipse files
+/.project
+/.pydevproject
+/.settings
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__
+
